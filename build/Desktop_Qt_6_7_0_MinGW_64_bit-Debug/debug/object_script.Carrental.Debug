@@ -1,0 +1,14 @@
+debug/admin.o
+debug/car.o
+debug/carlistmodel.o
+debug/customer.o
+debug/customerlistmodel.o
+debug/database.o
+debug/employee.o
+debug/inventory.o
+debug/main.o
+debug/mainwindow.o
+debug/rentals.o
+debug/rentalslistmodel.o
+debug/users.o
+debug/moc_mainwindow.o

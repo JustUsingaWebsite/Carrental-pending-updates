@@ -1,0 +1,14 @@
+release/admin.o
+release/car.o
+release/carlistmodel.o
+release/customer.o
+release/customerlistmodel.o
+release/database.o
+release/employee.o
+release/inventory.o
+release/main.o
+release/mainwindow.o
+release/rentals.o
+release/rentalslistmodel.o
+release/users.o
+release/moc_mainwindow.o
